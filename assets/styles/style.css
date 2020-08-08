@@ -1,0 +1,17 @@
+* {
+  font-family: "Cambria", sans-serif;
+}
+
+#wrapall {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+#rightpane {
+  padding: 0 40px;
+}
+
+table td {
+  padding: 10px;
+}
